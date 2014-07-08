@@ -1,44 +1,81 @@
-## Game Design
-### Objective
+## Table of Contents
+  * [Game Design](#game-design)
+    * [Objective](#objective)
+    * [Gameplay Mechanics](#gameplay-mechanics)
+    * [Level Design](#level-design)
+  * [Technical](#technical)
+    * [Scenes](#scenes)
+    * [Controls/Input](#controlsinput)
+    * [Classes/CCBs](#classesccbs)
+  * [MVP Milestones](#mvp-milestones)
+    * [Week 1](#week-1)
+    * [Week 2](#week-2)
+    * [Week 3](#week-3)
+    * [Week 4](#week-4)
+    * [Week 5](#week-5)
+    * [Week 6](#week-6)
+
+---
+
+### Game Design
+
+#### Objective
 [explain the goal of the game]
 
-### Gameplay Mechanics
+#### Gameplay Mechanics
 [detail the game mechanics, do not include anything about theme/artwork]
 
-### Level Design
+#### Level Design
 [describe what a typical level or puzzle would look like]
 
+[Back to top ^](#)
 
-## Technical
-### Scenes
+---
+
+### Technical
+
+#### Scenes
 * [list the different scenes/screens used in the game]
 
-### Controls/Input
+#### Controls/Input
 [describe the control scheme used in the game]
 
-### Classes/CCBs
+#### Classes/CCBs
 * Scenes
   * [list SpriteBuilder scenes used]
 * Nodes/Sprites
   * [list SpriteBuilder nodes/sprites used]
 
+[Back to top ^](#)
 
-## MVP Milestones
+---
+
+### MVP Milestones
 [The overall milestones of first playable build, core gameplay, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
-### Week 1 (7/7 - 7/11/2014)
+
+#### Week 1 
+(7/7 - 7/11/2014)
+
 * [goals for the week]
 
-### Week 2 (7/14 - 7/18/2014) - _finishing a playable build_
+#### Week 2
+(7/14 - 7/18/2014) - _finishing a playable build_
 * [goals for the week, should be finishing a playable game]
 
-### Week 3 (7/21 - 7/25/2014)
+#### Week 3
+(7/21 - 7/25/2014)
 * [goals for the week]
 
-### Week 4 (7/28 - 8/1/2014) - _finishing core gameplay_
+#### Week 4
+(7/28 - 8/1/2014) - _finishing core gameplay_
 * [goals for the week, should be finishing all core gameplay]
 
-### Week 5 (8/4 - 8/8/2014)
+#### Week 5
+(8/4 - 8/8/2014)
 * [goals for the week]
 
-### Week 6 (8/11 - 8/15/2014) - _finishing the polish_
+#### Week 6
+(8/11 - 8/15/2014) - _finishing the polish_
 * [goals for the week, should be finishing the polish -- demo day on Saturday!]
+
+[Back to top ^](#)
